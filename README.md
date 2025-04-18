@@ -17,6 +17,7 @@ The file structure of the artifact is as follows:
   * **3_ML_10fold_cs.py:** source code to machine learning models and Fig.5.c, Fig.5.d and Fig.5.e.
   * **4_plot_fig5b.py:** source code to Fig.5.b.
 
+Data is available at https://drive.google.com/file/d/1tNdJ-P6jjqlOpDA9OiFix81_KzhjQoT4/view?usp=drive_link.
 * **data:**
   * **xxduBYS:** data for 2,4-DNPA at xx temperature.
   * **xxduTNT:** data for TNT at xx temperature.
